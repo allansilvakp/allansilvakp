@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Sou estudante focado  na área de Engenharia de Software, foco principal no BackEnd</p>
+<p align="left">Sou estudante na área de Engenharia de Software, foco principal no BackEnd</p>
 
 ###
 
